@@ -10,24 +10,11 @@
 
 # 💫 About Me
 
-I am a **Full-Stack Systems Engineer** and **Smart Contract Security Auditor** operating across Web2, Web3, and autonomous AI systems. I design resilient backend architectures, audit decentralized finance protocols, and build production agentic tooling.
+**Full-Stack Systems Engineer & Smart Contract Auditor** building across Web2, Web3, and Autonomous AI.
 
-```
-┌────────────────────────────────────────────────────────────────────────┐
-│  🌐 Web2 Systems       • Scalable web apps, high-throughput APIs,      │
-│                          Telegram bots & desktop developer tooling     │
-│  ⛓️ Web3 & DeFi        • Smart contract engineering & security auditing │
-│                          (Solidity, EVM protocols, formal review)      │
-│  🧠 AI & Agents        • Autonomous agent workflows, skill packs,      │
-│                          prompt-injection defense & tool orchestration │
-└────────────────────────────────────────────────────────────────────────┘
-```
-
-### What I Do:
-
-* 🌐 **Full-Stack Web2:** Designing high-performance distributed backends, REST/GraphQL microservices, reactive frontend architectures, and autonomous Telegram/Discord bots.
-* ⛓️ **Web3 & Smart Contract Security:** Authoring and auditing EVM smart contracts, identifying economic and logic exploits, and testing protocols with Foundry and Hardhat.
-* 🧠 **AI & Agent Infrastructure:** Engineering spec-compliant skill packs, eliminating prompt injections and security vulnerabilities in AI workflows, and hardening agent runtimes.
+- 🌐 **Web2:** Scalable web apps, high-throughput APIs, Telegram bots & desktop tooling.
+- ⛓️ **Web3:** Smart contract development & EVM security auditing (Solidity, Foundry).
+- 🧠 **AI & Agents:** Autonomous workflows, spec-compliant skill packs & prompt-injection defense.
 
 ---
 
