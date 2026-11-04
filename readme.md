@@ -110,6 +110,5 @@
 
 ## 💰 Support My Work
 <p align="left">
-  <a href="https://buymeacoffee.com/realshahriya" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="BuyMeACoffee" /></a>
   <a href="https://patreon.com/realshahriya" target="_blank"><img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon" /></a>
 </p>
