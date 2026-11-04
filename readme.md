@@ -107,6 +107,17 @@
 </p>
 
 ---
+## 🏆 Achievements
+
+<p>
+  <a href="https://github.com/realshahriya?tab=achievements">
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="90" alt="Pull Shark" title="Pull Shark" />
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="90" alt="Quickdraw" title="Quickdraw" />
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="90" alt="YOLO" title="YOLO" />
+  </a>
+</p>
+
+---
 
 ## 💰 Support My Work
 <p align="left">
